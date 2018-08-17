@@ -1,3 +1,6 @@
 book-service/.gradle
 book-service/.idea
 .gradle
+book-service/out
+user-service/.idea
+user-service/out
